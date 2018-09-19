@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">Artgiro SMS</string>
+
+    <string name="banner">ca-app-pub-6424880834187499/2645669511</string>
+    <string name="inters">ca-app-pub-6424880834187499/6321901088</string>
+
+    <string name="assessoria">
+
+        <b>Cursos:\n\n</b>
+
+            NR-01 - Disposição Gerais
+            \n\nNR-06 - EPIs
+            \n\nNR-09 - PPRA
+            \n\nNR-33 - Espaço Confinado
+            \n\nNR-35 - Trabalho em Altura
+
+            E outros cursos.
+
+            \n\n<b>Programas:</b>
+            \nPPRA - Programa de Prevenção dos Riscos Ambientais.
+
+        \n\n\Faça seu orçamento sem compromisso por e-mail.
+
+            \n\nartgirocursos@gmail.com
+
+            \n\n<b>Contato:</b>
+            \n13 99744 9562 WhatsApp
+    </string>
+
+
+    <string-array name="menu_nr">
+        <item>NR 1 - Disposições Gerais</item>
+        <item>NR 2 - Inspeção Prévia</item>
+        <item>NR 3 - Embargo e Interdição</item>
+        <item>NR 4 - Serviço Especializado em Engenharia de Segurança e em Medicina do Trabalho - SESMT</item>
+        <item>NR 5 - Comissão Interna de Prevenção de Acidentes - CIPA</item>
+        <item>NR 6 - Equipamento de Proteção Individual - EPI</item>
+        <item>NR 7 - Programa de Controle Médico de Saúde Ocupacional - PCMSO</item>
+        <item>NR 8 - Edificações</item>
+        <item>NR 9 - Programa de Prevenção de Riscos Ambientais - PPRA</item>
+        <item>NR 10 - Segurança em Instalações e Redes Elétricas</item>
+        <item>NR 11 - Transporte, Movimentação, Armazenagem e Manuseios de Materiais</item>
+        <item>NR 12 - Segurança no Trabalho em Máquinas e Equipamentos</item>
+        <item>NR 13 - Caldeiras, Vasos de Pressão e Tubulações</item>
+        <item>NR 14 - Fornos</item>
+        <item>NR 15 - Atividades e Operações Insalubres</item>
+        <item>NR 16 - Atividades e Operações Perigosas</item>
+        <item>NR 17 - Ergonomia</item>
+        <item>NR 18 - Condições e Meio Ambiente de Trabalho na Indústria da Construção</item>
+        <item>NR 19 - Explosivos</item>
+        <item>NR 20 - Segurança e Saúde no Trabalho com Inflamavéis e Combustivéis</item>
+        <item>NR 21 - Trabalhos a Céu Aberto</item>
+        <item>NR 22 - Segurança e Saúde Ocupacional na Mineração</item>
+        <item>NR 23 - Proteção Contra Incêndio</item>
+        <item>NR 24 - Condições Sanitárias e de Conforto nos Locais de Trabalho</item>
+        <item>NR 25 - Resíduos Industriais</item>
+        <item>NR 26 - Sinalização de Segurança</item>
+        <item>NR 27 - CANCELADA</item>
+        <item>NR 28 - Fiscalização e Penalidades</item>
+        <item>NR 29 - Norma Regulametadora de Segurança e Saúde no Trabalho Portuário</item>
+        <item>NR 30 - Segurança e Saúde no Trabalho Aquaviário</item>
+        <item>NR 31 - Segurança e Saúde no Trabalho na Agricultura, Pecuária, Silvicultura, Exploração Floresta e Aquicultura</item>
+        <item>NR 32 - Segurança e Saúde no Trabalho em Serviços de Saúde</item>
+        <item>NR 33 - Segurança e Saúde no Trabalho em Espaços Confinados</item>
+        <item>NR 34 - Condições e Meio Ambiente de Trabalho na Indústria de Construção e Reparação Naval</item>
+        <item>NR 35 - Trabalho em Altura</item>
+        <item>NR 36 - Segurança e Saúde no Trabalho nas Empresas de Abate, Processamento de Carnes e Derivados</item>
+
+
+    </string-array>
+
+    <string-array name="menu_nr_11">
+
+        <item>NR 11</item>
+        <item>Anexo 1  - NR 11</item>
+
+
+    </string-array>
+
+    <string-array name="menu_nr_12">
+
+        <item>NR 12</item>
+        <item>Anexo 1  - NR 12</item>
+        <item>Anexo 2  - NR 12</item>
+        <item>Anexo 3  - NR 12</item>
+        <item>Anexo 4  - NR 12</item>
+        <item>Anexo 5  - NR 12</item>
+        <item>Anexo 6  - NR 12</item>
+        <item>Anexo 7  - NR 12</item>
+        <item>Anexo 8  - NR 12</item>
+        <item>Anexo 9  - NR 12</item>
+        <item>Anexo 10  - NR 12</item>
+        <item>Anexo 11  - NR 12</item>
+        <item>Anexo 12  - NR 12</item>
+
+
+    </string-array>
+
+    <string-array name="menu_nr_15">
+
+        <item>NR 15</item>
+        <item>Anexo 1  - NR 15</item>
+        <item>Anexo 2  - NR 15</item>
+        <item>Anexo 3  - NR 15</item>
+        <item>Anexo 4  - NR 15</item>
+        <item>Anexo 5  - NR 15</item>
+        <item>Anexo 6  - NR 15</item>
+        <item>Anexo 7  - NR 15</item>
+        <item>Anexo 8  - NR 15</item>
+        <item>Anexo 9  - NR 15</item>
+        <item>Anexo 10  - NR 15</item>
+        <item>Anexo 11  - NR 15</item>
+        <item>Anexo 12  - NR 15</item>
+        <item>Anexo 13  - NR 15</item>
+        <item>Anexo 13a  - NR 15</item>
+        <item>Anexo 14  - NR 15</item>
+
+
+    </string-array>
+
+    <string-array name="menu_nr_17">
+
+        <item>NR 17</item>
+        <item>Anexo 1  - NR 17</item>
+        <item>Anexo 2  - NR 17</item>
+
+
+    </string-array>
+
+    <string-array name="menu_nr_30">
+
+        <item>NR 30</item>
+        <item>Anexo 1  - NR 30</item>
+        <item>Anexo 2  - NR 30</item>
+
+
+    </string-array>
+</resources>

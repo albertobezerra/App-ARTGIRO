@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="nelsongoncalves.artgitosms">
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:icon="@mipmap/iconedoapp"
+        android:roundIcon="@mipmap/iconedoapp_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".splash"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".estacionario"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".nr_estacionario"
+            android:parentActivityName=".estacionario" />
+        <activity
+            android:name=".cursosetreinamentos"
+            android:parentActivityName=".estacionario" />
+        <activity
+            android:name=".dds"
+            android:parentActivityName=".estacionario" />
+        <activity
+            android:name=".consultadeca"
+            android:parentActivityName=".estacionario" />
+        <activity
+            android:name=".cid"
+            android:parentActivityName=".estacionario" />
+        <activity
+            android:name=".emprego"
+            android:parentActivityName=".estacionario" />
+        <activity
+            android:name=".assessoria"
+            android:parentActivityName=".estacionario" />
+        <activity
+            android:name=".nr1"
+            android:parentActivityName=".nr_estacionario" />
+        <activity
+            android:name=".nr2"
+            android:parentActivityName=".nr_estacionario" />
+        <activity
+            android:name=".nr3"
+            android:parentActivityName=".nr_estacionario" />
+        <activity
+            android:name=".nr4"
+            android:parentActivityName=".nr_estacionario" />
+        <activity
+            android:name=".nr5"
+            android:parentActivityName=".nr_estacionario" />
+        <activity
+            android:name=".nr6"
+            android:parentActivityName=".nr_estacionario" />
+        <activity
+            android:name=".nr7"
+            android:parentActivityName=".nr_estacionario" />
+        <activity
+            android:name=".nr8"
+            android:parentActivityName=".nr_estacionario" />
+        <activity
+            android:name=".nr9"
+            android:parentActivityName=".nr_estacionario" />
+        <activity
+            android:name=".nr10"
+            android:parentActivityName=".nr_estacionario" />
+        <activity
+            android:name=".nr11"
+            android:parentActivityName=".nr_estacionario" />
+        <activity
+            android:name=".nr11_nr"
+            android:parentActivityName=".nr11" />
+        <activity
+            android:name=".nr11_anexo1"
+            android:parentActivityName=".nr11" />
+        <activity
+            android:name=".nr12"
+            android:parentActivityName=".nr_estacionario" />
+        <activity
+            android:name=".nr12_nr"
+            android:parentActivityName=".nr12" />
+        <activity
+            android:name=".nr12_anexo1"
+            android:parentActivityName=".nr12" />
+        <activity
+            android:name=".nr12_anexo2"
+            android:parentActivityName=".nr12" />
+        <activity
+            android:name=".nr12_anexo3"
+            android:parentActivityName=".nr12" />
+        <activity
+            android:name=".nr12_anexo4"
+            android:parentActivityName=".nr12" />
+        <activity
+            android:name=".nr12_anexo5"
+            android:parentActivityName=".nr12" />
+        <activity
+            android:name=".nr12_anexo6"
+            android:parentActivityName=".nr12" />
+        <activity
+            android:name=".nr12_anexo7"
+            android:parentActivityName=".nr12" />
+        <activity
+            android:name=".nr12_anexo8"
+            android:parentActivityName=".nr12" />
+        <activity
+            android:name=".nr12_anexo9"
+            android:parentActivityName=".nr12" />
+        <activity
+            android:name=".nr12_anexo10"
+            android:parentActivityName=".nr12" />
+        <activity
+            android:name=".nr12_anexo11"
+            android:parentActivityName=".nr12" />
+        <activity
+            android:name=".nr12_anexo12"
+            android:parentActivityName=".nr12" />
+        <activity
+            android:name=".nr13"
+            android:parentActivityName=".nr_estacionario" />
+        <activity
+            android:name=".nr14"
+            android:parentActivityName=".nr_estacionario" />
+        <activity
+            android:name=".nr15"
+            android:parentActivityName=".nr_estacionario" />
+        <activity
+            android:name=".nr15_nr"
+            android:parentActivityName=".nr15" />
+        <activity
+            android:name=".nr15_anexo2"
+            android:parentActivityName=".nr15" />
+        <activity
+            android:name=".nr15_anexo1"
+            android:parentActivityName=".nr15" />
+        <activity
+            android:name=".nr15_anexo3"
+            android:parentActivityName=".nr15" />
+        <activity
+            android:name=".nr15_anexo4"
+            android:parentActivityName=".nr15" />
+        <activity
+            android:name=".nr15_anexo6"
+            android:parentActivityName=".nr15" />
+        <activity
+            android:name=".nr15_anexo5"
+            android:parentActivityName=".nr15" />
+        <activity
+            android:name=".nr15_anexo7"
+            android:parentActivityName=".nr15" />
+        <activity
+            android:name=".nr15_anexo8"
+            android:parentActivityName=".nr15" />
+        <activity
+            android:name=".nr15_anexo9"
+            android:parentActivityName=".nr15" />
+        <activity
+            android:name=".nr15_anexo10"
+            android:parentActivityName=".nr15" />
+        <activity
+            android:name=".nr15_anexo11"
+            android:parentActivityName=".nr15" />
+        <activity
+            android:name=".nr15_anexo12"
+            android:parentActivityName=".nr15" />
+        <activity
+            android:name=".nr15_anexo13"
+            android:parentActivityName=".nr15" />
+        <activity
+            android:name=".nr15_anexo13a"
+            android:parentActivityName=".nr15" />
+        <activity
+            android:name=".nr15_anexo14"
+            android:parentActivityName=".nr15" />
+        <activity android:name=".nr16" />
+        <activity
+            android:name=".nr17"
+            android:parentActivityName=".nr_estacionario" />
+        <activity
+            android:name=".nr17_nr"
+            android:parentActivityName=".nr17" />
+        <activity
+            android:name=".nr17_anexo1"
+            android:parentActivityName=".nr17" />
+        <activity
+            android:name=".nr17_anexo2"
+            android:parentActivityName=".nr17" />
+
+
+        <activity android:name=".nr18"
+            android:parentActivityName=".nr_estacionario" />
+        <activity android:name=".nr19"
+            android:parentActivityName=".nr_estacionario" />
+        <activity android:name=".nr20"
+            android:parentActivityName=".nr_estacionario" />
+        <activity android:name=".nr21"
+            android:parentActivityName=".nr_estacionario" />
+        <activity android:name=".nr22"
+            android:parentActivityName=".nr_estacionario" />
+        <activity android:name=".nr23"
+            android:parentActivityName=".nr_estacionario" />
+        <activity android:name=".nr24"
+            android:parentActivityName=".nr_estacionario" />
+        <activity android:name=".nr25"
+            android:parentActivityName=".nr_estacionario" />
+        <activity android:name=".nr26"
+            android:parentActivityName=".nr_estacionario" />
+        <activity android:name=".nr28"
+            android:parentActivityName=".nr_estacionario" />
+        <activity android:name=".nr29"
+            android:parentActivityName=".nr_estacionario" />
+
+
+        <activity android:name=".nr30"
+            android:parentActivityName=".nr_estacionario" />
+        <activity android:name=".nr30_nr"
+            android:parentActivityName=".nr30" />
+        <activity android:name=".nr30_anexo1"
+            android:parentActivityName=".nr30" />
+        <activity android:name=".nr30_anexo2"
+            android:parentActivityName=".nr30" />
+
+
+        <activity android:name=".nr31"
+            android:parentActivityName=".nr_estacionario" />
+        <activity android:name=".nr32"
+            android:parentActivityName=".nr_estacionario" />
+        <activity android:name=".nr33"
+            android:parentActivityName=".nr_estacionario" />
+        <activity android:name=".nr34"
+            android:parentActivityName=".nr_estacionario" />
+        <activity android:name=".nr35"
+            android:parentActivityName=".nr_estacionario" />
+        <activity android:name=".nr36"
+            android:parentActivityName=".nr_estacionario" />
+
+    </application>
+
+</manifest>
