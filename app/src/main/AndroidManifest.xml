@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".nr37"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:parentActivityName=".nr_estacionario" />
         <activity
             android:name=".splash"
             android:theme="@style/AppTheme.NoActionBar">
