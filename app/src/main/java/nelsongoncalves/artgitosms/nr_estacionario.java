@@ -251,6 +251,12 @@ public class nr_estacionario extends AppCompatActivity implements Runnable {
                     startActivityForResult(myIntent, 35);
                     displayInterstitial();
                 }
+
+                if (position == 36) {
+                    Intent myIntent = new Intent(view.getContext(), nr37.class);
+                    startActivityForResult(myIntent, 36);
+                    displayInterstitial();
+                }
             }
         });
     }
